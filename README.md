@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <!--# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Accurate. Organised. Dashboard-driven.
+
+ N6 Managemnet Assistant based In South Africa, I build structured accurate Excel dashboard and keep data clean, organised and easy to use.
 
 
 ## 🌐 Socials:
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Email
+- 😄 Pronouns: she
+- ⚡ Fun fact: I love reading
 -->
